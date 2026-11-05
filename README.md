@@ -106,6 +106,12 @@ There are many Pull Requests to this repository waiting to be merged. There are 
 
 # Prompts
 
+## About
+- **What it is:** An unchanged copy of the public Awesome ChatGPT Prompts collection of example prompts.
+- **Business:** learning
+- **Status:** inactive since 2024-11
+- **Source:** agent research 2026-11-04
+
 ## ChatGPT SEO prompts
 Contributed by: [StoryChief AI](https://www.storychief.io/ai-power-mode)
 Reference: [https://storychief.io/blog/chatgpt-prompts-seo](https://storychief.io/blog/chatgpt-prompts-seo)
